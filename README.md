@@ -3,7 +3,7 @@
 Library for PCF8833
 
 
-<img align="left" width="600" height="400" src="https://github.com/josimarpereiraleite/PCF8833/blob/main/Images/1.png"><br />
+<img align="left" width="600" height="250" src="https://github.com/josimarpereiraleite/PCF8833/blob/main/Images/1.png"><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Atmega8 
 
