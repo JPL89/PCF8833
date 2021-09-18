@@ -6,8 +6,6 @@ Library for PCF8833
 <img align="left" width="390" height="600" src="https://github.com/josimarpereiraleite/PCF8833/blob/main/Images/1.png"><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ## Atmega8 
 
 PC0 --> CS  (SCE) Chip Enable<br />
